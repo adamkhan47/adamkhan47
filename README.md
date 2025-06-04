@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Email me on adammkhan47@gmail.com
+Dallas Texas
 <!--
 **adamkhan47/adamkhan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

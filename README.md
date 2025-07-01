@@ -1,7 +1,7 @@
-## Hi there 👋
-[Check my projects out](https://adamkhan47.github.io) <br>
-Email me on adammkhan47@gmail.com <br> 
-Dallas, Texas <br>
+# Hi there 👋
+# [Check my projects out](https://adamkhan47.github.io) <br>
+## Email me on adammkhan47@gmail.com <br> 
+## Dallas, Texas <br>
 
 <!--
 **adamkhan47/adamkhan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
